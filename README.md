@@ -23,6 +23,7 @@
 ║              [ AI ENGINEER  , INDIA — CLASS 2027 ]                         ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
+## PORTFOLIO : https://armankothariya.github.io/
 
 </div>
 
@@ -66,11 +67,11 @@
 │  I'm Arman. Not just an engineering student — a researcher               │
 │  obsessed with the frontier where biology ends and code begins.          │
 │                                                                          │
-│  While most were learning algorithms, I was asking:                     │
+│  While most were learning algorithms, I was asking:                      │
 │  "What if the algorithm IS the brain?"                                   │
 │                                                                          │
-│  That question led me to EEG signals. To emotion classification.        │
-│  To Brain-Computer Interfaces. To a path most haven't dared walk.       │
+│  That question led me to EEG signals. To emotion classification.         │
+│  To Brain-Computer Interfaces. To a path most haven't dared walk.        │
 │                                                                          │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
@@ -197,7 +198,7 @@
 ║  FILE 004  ·  CLEARANCE: OPEN  ·  STATUS: ONGOING                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║   🔭  ASTEROID DETECTION — IASC CITIZEN SCIENCE                 ║
+║   🔭  ASTEROID DETECTION — IASC CITIZEN SCIENCE                  ║
 ║                                                                  ║
 ║   Not all frontiers are inside the skull.                        ║
 ║   Pattern recognition across the observable universe.            ║
